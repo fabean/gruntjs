@@ -1,5 +1,5 @@
 # Grunt.js Tutorial
-***
+
 Grunt is an automation machine! It takes the repetitive tasks you have to do all the time, and does them for you like magic.
 
 In this repository is my sample files, but below explains how to go and create your own.
